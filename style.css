@@ -1,0 +1,130 @@
+.navbar {
+ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgb(142 154 231);
+    padding: 1.5%;
+
+
+
+}
+.navbar img{
+    width: 100px;
+
+}
+
+
+.about figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 220px;
+    margin: auto;
+  }
+  
+  .about img{
+    max-width: 220px;
+    max-height: 150px;
+  }
+  
+  .about figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+  }
+  .about{
+    text-align: center;
+
+  }
+  .descrreptionabout{
+    display: flex;
+    background-color: #222;
+    color: #c0c0c0;
+    padding: 7%;
+
+  }
+  .img1{
+
+    margin-right: 8px;
+  }
+  .work h1{
+    text-align: center;
+
+
+  }
+  .descriptionwork{
+display: flex;
+background-color: #222;
+padding: 5%;
+text-align: center;
+
+  }
+  .descriptionwork p{
+color: #c0c0c0;
+margin: 4%;
+  }
+  .descriptionwork iframe{
+ 
+    width: 400px;
+  }
+  .descriptionwork p {
+  margin-top: 7%;
+
+  }
+  .carfeatures {
+    display: flex;
+    background-color: #222;
+    color: #c0c0c0;
+    padding: 6%;
+    text-align: center;
+    
+
+
+  }
+  .carfeatures img {
+    width: 300px;
+  }
+.resume h1{
+  text-align: center;
+
+}
+.carfeatures p{
+  margin-top: 7%;
+}
+.carfeatures figure {
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+}
+
+.carfeatures img{
+  max-width: 220px;
+  max-height: 150px;
+}
+
+.carfeatures figcaption {
+  background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+}
+/* kkkkk */
+.contact h1{
+  text-align: center;
+}
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color:rgb(142 154 231);
+  padding: 1.5%;
+  font-weight:bold;
+
+}
